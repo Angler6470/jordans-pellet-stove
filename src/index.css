@@ -1,0 +1,14 @@
+html {
+  min-width: 320px;
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+}
+
+#root {
+  min-height: 100vh;
+}
